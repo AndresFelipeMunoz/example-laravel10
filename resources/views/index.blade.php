@@ -119,7 +119,7 @@
                     {data: 'created_at', name:'created_at'}, 
                     {data: 'action', name:'action', orderable: false}, 
             ],
-            order:[[0,'desc']]
+            order:[[0,'asc']]
         });
         
         window.editFunc = function(id){
